@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userutringify",
+        "uuid": 18076950,
+        "checksum": "zzu18r"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
